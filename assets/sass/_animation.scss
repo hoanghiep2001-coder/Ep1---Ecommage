@@ -1,0 +1,38 @@
+.from-left {
+    animation: animatedFromLeft .7s ease-out ;
+}
+
+.from-right {
+    animation: animatedFromRight .7s ease-out ;
+}
+
+.from-up {
+    animation: animatedFromUp .7s ease-out ;
+}
+
+.from-down {
+    animation: animatedFromDown .7s ease-out ;
+}
+
+/*----------Thumbnail----------*/
+.body__container-thumbnail-row-col {
+    opacity: 0;
+}
+
+.body__container-thumbnail-row-col.from-right,
+.body__container-thumbnail-row-col.from-up,
+.body__container-thumbnail-row-col.from-down,
+.body__container-thumbnail-row-col.from-left {
+    opacity: 1;
+}
+/*----------Gallery------------*/
+.body__container-gallery-row-col {
+    opacity: 0;
+}
+
+.body__container-gallery-row-col.from-right,
+.body__container-gallery-row-col.from-up,
+.body__container-gallery-row-col.from-down,
+.body__container-gallery-row-col.from-left {
+    opacity: 1;
+}

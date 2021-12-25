@@ -1,0 +1,33 @@
+/* @media (min-width: 1024px) and (max-width: 1113px) {
+
+} */
+
+/* Tablet */
+/* @media (min-width: 740px) and (max-width: 1023px) {
+
+} */
+
+/* Moblie */
+/* @media (max-width:740px) { */
+    /*---------header-----------*/
+    /* .header__logo img {
+        width: auto;
+        height: auto;
+    }
+
+    ul.header__links {
+        width: auto;
+        left: calc(50% - 200px/2);
+        top: calc(50% - 18px/2);
+    }
+
+    .header__links-item {
+        font-size: 1.2rem;
+    } */
+    /* // end header*/
+    /*---------thumbnail----------*/
+    /* .body__container-thumbnail-row-col img {
+        width: 100%;
+        height: auto;
+    }
+} */
